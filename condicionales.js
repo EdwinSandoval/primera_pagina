@@ -38,3 +38,6 @@ function ganador(yo, compu){
 }
 // llamamos al metodo para pasarle parametros
 ganador("papel", "tijera");
+ganador("papel", "tijera");
+ganador("papel", "tijera");
+ganador("papel", "tijera");
